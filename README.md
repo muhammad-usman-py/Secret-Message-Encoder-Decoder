@@ -26,11 +26,11 @@ A simple web-based tool to **encode and decode secret messages** using a unique 
 
 ---
 
-## 📂 Project Structure
-Secret-Message-Encoder-Decoder/
-│── index.html      # Main UI with input/output fields
-│── style.css       # Styling for buttons, layout, and themes
-│── script.js       # Encoding/decoding logic and event handlers
+## 📂 Project Structure<br>
+Secret-Message-Encoder-Decoder/<br>
+│── index.html      # Main UI with input/output fields<br>
+│── style.css       # Styling for buttons, layout, and themes<br>
+│── script.js       # Encoding/decoding logic and event handlers<br>
 │── README.md       # Documentation (you're here!)
 
 
